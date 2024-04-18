@@ -1,0 +1,60 @@
+G:\inet\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.deps.json
+G:\inet\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.dll
+G:\inet\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.pdb
+G:\inet\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.dll
+G:\inet\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.pdb
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.AssemblyReference.cache
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfoInputs.cache
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfo.cs
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CoreCompileInputs.cache
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CopyComplete
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.dll
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\refint\AM.Core.Services.dll
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.pdb
+G:\inet\AirportManagement\AM.Core.Services\obj\Debug\net8.0\ref\AM.Core.Services.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.deps.json
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.pdb
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfo.cs
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CopyComplete
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\refint\AM.Core.Services.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.pdb
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Core.Services\obj\Debug\net8.0\ref\AM.Core.Services.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.deps.json
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.pdb
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfo.cs
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CopyComplete
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\refint\AM.Core.Services.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.pdb
+C:\Users\USER\Desktop\AirportManagement 1\AM.Core.Services\obj\Debug\net8.0\ref\AM.Core.Services.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.deps.json
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.pdb
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.AssemblyReference.cache
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfoInputs.cache
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfo.cs
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CopyComplete
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\refint\AM.Core.Services.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.pdb
+C:\Users\selim\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\ref\AM.Core.Services.dll

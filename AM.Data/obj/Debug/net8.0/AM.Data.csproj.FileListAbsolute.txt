@@ -1,0 +1,68 @@
+G:\inet\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.deps.json
+G:\inet\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.runtimeconfig.json
+G:\inet\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.dll
+G:\inet\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.pdb
+G:\inet\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Core.Domain.dll
+G:\inet\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Core.Domain.pdb
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.AssemblyReference.cache
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfoInputs.cache
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfo.cs
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CoreCompileInputs.cache
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CopyComplete
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.dll
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\refint\AM.Data.dll
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.pdb
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.genruntimeconfig.cache
+G:\inet\AirportManagement\AM.Data\obj\Debug\net8.0\ref\AM.Data.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.deps.json
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.runtimeconfig.json
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.pdb
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfo.cs
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CopyComplete
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\refint\AM.Data.dll
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.pdb
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.genruntimeconfig.cache
+C:\Users\USER\Downloads\TWIN2-20240220-TP3-Q3.6.c\AirportManagement\AM.Data\obj\Debug\net8.0\ref\AM.Data.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\bin\Debug\net8.0\AM.Data.deps.json
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\bin\Debug\net8.0\AM.Data.runtimeconfig.json
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\bin\Debug\net8.0\AM.Data.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\bin\Debug\net8.0\AM.Data.pdb
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CopyComplete
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\refint\AM.Data.dll
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.pdb
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\AM.Data.genruntimeconfig.cache
+C:\Users\USER\Desktop\AirportManagement 1\AM.Data\obj\Debug\net8.0\ref\AM.Data.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.deps.json
+C:\Users\selim\source\repos\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.runtimeconfig.json
+C:\Users\selim\source\repos\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.pdb
+C:\Users\selim\source\repos\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.AssemblyReference.cache
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfoInputs.cache
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfo.cs
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CopyComplete
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\refint\AM.Data.dll
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.pdb
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.genruntimeconfig.cache
+C:\Users\selim\source\repos\AirportManagement\AM.Data\obj\Debug\net8.0\ref\AM.Data.dll
